@@ -16,6 +16,9 @@
   "author": "Pedro Gomes <pedro@pedrouid.com>",
   "homepage": "https://ethereum-api.xyz",
   "license": "MIT",
+  "engines": {
+    "node": "16.x"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pedrouid/ethreum-api.git"
